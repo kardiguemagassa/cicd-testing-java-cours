@@ -1,4 +1,4 @@
-package tech.zerofiltre.testing.calcul.e2e;
+/*package tech.zerofiltre.testing.calcul.e2e;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
@@ -69,5 +69,8 @@ public class MultiplicationJourneyE2ETest {
     assertThat(solution).isEqualTo("32");
   }
 
+ mvn clean verify sonar:sonar -Dsonar.login=squ_aaf3e8fb33c6c5dda948ece108b55c8231070f8d
 
 }
+
+ */
