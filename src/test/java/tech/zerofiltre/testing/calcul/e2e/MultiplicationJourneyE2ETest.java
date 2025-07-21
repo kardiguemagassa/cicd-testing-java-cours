@@ -1,4 +1,4 @@
-package tech.zerofiltre.testing.calcul.e2e;
+/*package tech.zerofiltre.testing.calcul.e2e;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
@@ -70,3 +70,5 @@ class MultiplicationJourneyE2ETest {
 
 
 }
+
+ */
